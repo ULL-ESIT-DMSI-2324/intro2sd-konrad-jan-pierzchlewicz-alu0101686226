@@ -11,13 +11,10 @@ Systems development is the structured process by which business requirements are
 - Testing of the developed software.
 - Implementation of the solution.
 
-#### Evolving Nature of Systems Development
 
-Previously, systems development was more ad hoc and reliant on the skill and enthusiasm of individual developers. However, due to the increased significance of IT systems in organizations today, more structured processes have been introduced to mitigate risks and manage the complexity of systems.
+#### Relation to other branches of IT
 
-#### Relation to Other Disciplines
-
-Systems development is not an isolated function; it intertwines with several other disciplines, such as:
+ <img src="assets/images/summary.png" alt="Image showing the relations to other branches in IT">
 
 - **Project Management**: Ensures proper planning and resource allocation for the development process.
 - **Business Analysis**: Focuses on understanding business issues and opportunities that the IT system aims to address.
@@ -28,9 +25,9 @@ Systems development is not an isolated function; it intertwines with several oth
 
 #### Offshoring and Outsourcing
 
-Many organizations offshore or outsource their systems development. Offshoring is usually done to capitalize on cheaper, high-quality resources in other countries, such as India. Outsourcing is the practice of delegating development work to specialized IT firms, which might also be coupled with offshoring. These practices come with their own sets of advantages and challenges, such as communication barriers and loss of control over critical systems.
+Numerous organizations opt to offshore or outsource their systems development, often with the aim of leveraging cost-effective, top-tier resources available in other nations, like India. Outsourcing entails entrusting development tasks to specialized IT companies, which may also involve offshoring. These approaches bring forth their distinct advantages and obstacles, including issues like communication barriers and the relinquishment of control over essential systems.
 
-By understanding these facets of systems development, organizations can better manage the complexities and challenges that come with building IT systems. 
+By gaining insight into these dimensions of systems development, organizations can more effectively navigate the intricacies and difficulties associated with constructing IT systems.
 
 <ul>
 {% for summary in site.summary %}

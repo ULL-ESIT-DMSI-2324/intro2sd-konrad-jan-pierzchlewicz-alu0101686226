@@ -36,7 +36,7 @@ This project includes a summary of the topics that we learned at the classes, al
 
 ## Summary of the first chapter
 
-The summary of the first chapter is avaiable in the `_summary` folder or at the `summary/` directory at the website.
+The summary of the first chapter is avaiable in the `_summary` folder or at the `/summary` directory at the website.
 
 ## Deployment in Jekyll and GitHub Pages
 
