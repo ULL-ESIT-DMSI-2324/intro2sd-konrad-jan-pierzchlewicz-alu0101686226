@@ -44,7 +44,9 @@ The website has been deployed using Jekyll and is available on GitHub Pages. See
 
 ## Deployment in Netlify
 
-Doesn't work for me or I don't know how to do it.
+Doesn't work for me, permission issue.
+
+<img src="assets/images/netlify_error.png" alt="Error regarding Netlify that I can't work around">
 
 ## Personalized 404 page
 
@@ -65,25 +67,36 @@ Configured a Jekyll Collection for the project in `_assignment` folder. See the 
 
 ## Usage of Liquid and data types
 
-Se han utilizado etiquetas Liquid para la manipulación de datos en el sitio web. Ejemplos se incluirán en el informe final.
+Liquid tags used to work in certain files, for example in `summary.md` file to include the summary of the topics using `_includes`.
+
 <p align="center">
-  <img src="assets/images/lquid-index.png" alt="Ejemplo de jekyll para _resumenes">
-  <img src="assets/images/jekyll_liquid.png" alt="Ejemplo de jekyll para colección de fráses célebres de S.H.">
+  <img src="assets/images/liquid_example.png" alt="Include and list operations using Liquid">
+    <img src="assets/images/liquid_in_csv.png" alt="Liquid used on a csv file">
 </p>
+
 
 ## Usage of `.csv` or `.json` file types in `_data` folder
 
-En Jekyll, puedes cargar y utilizar fácilmente datos desde archivos .csv, .json, y .yml almacenados en el directorio _data. 
+Usage of other file types in `_data` folder, for example the `.csv` file used in the screenshot below.
+
 <p align="center">
-  <img src="assets/images/archivo-csv.png" alt="Ejemplo de archivo csv">
+  <img src="assets/images/csv_usage.png" alt="csv file used">
 </p>
 
 ## Configuration of `_config.yml`
 
-Se han ajustado los valores predeterminados en `_config.yml` para adaptar el sitio web a las necesidades del proyecto.
+Adjusted the `_config.yml` file to include the Jekyll Collection and the Liquid tags.
+
+## Link to GitHub profile on personalized GitHub page
+
+The link to my GitHub profile is available on the website at the `/404.html` page.
+
+<p align="center">
+  <img src="assets/images/github-link.png" alt="csv file used">
+</p>
 
 ## Delivery of `.zip` file
 
-El proyecto completo se entregará como un archivo `.zip` en el campus virtual.
+Delivered the `zip` file on campus with the repository.
 
 ---

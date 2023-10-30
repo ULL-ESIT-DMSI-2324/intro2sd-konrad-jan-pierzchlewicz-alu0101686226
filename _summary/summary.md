@@ -8,3 +8,6 @@
 {% endfor %}
 </ul>
 
+{% for summary in site.data.sample %}
+{{ summary.title }} por {{ summary.author }}
+{% endfor %}

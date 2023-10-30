@@ -1,0 +1,1 @@
+Second text regarding Jekyll Collections
