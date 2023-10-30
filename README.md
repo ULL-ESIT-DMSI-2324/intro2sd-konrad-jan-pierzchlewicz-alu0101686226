@@ -100,3 +100,5 @@ The link to my GitHub profile is available on the website at the `/404.html` pag
 Delivered the `zip` file on campus with the repository.
 
 ---
+
+Final check if everything is okay
