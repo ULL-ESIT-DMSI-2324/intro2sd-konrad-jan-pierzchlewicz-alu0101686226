@@ -206,7 +206,7 @@ collections_jekyll:
   summary:
     output: true
     permalink: /:collection/:path/ 
-  holmes_quotes:
+  assignment:
     output: true
     permalink: /:collection/:path/
 

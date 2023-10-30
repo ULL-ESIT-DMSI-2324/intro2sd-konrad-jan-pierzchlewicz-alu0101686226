@@ -44,26 +44,22 @@ The website has been deployed using Jekyll and is available on GitHub Pages. See
 
 ## Deployment in Netlify
 
-Adicionalmente, el sitio web ha sido desplegado en Netlify.[Página en Netlify](https://some-weird-page.netlify.app) para más detalles.
-<p align="center">
-  <img src="assets/images/pag-netlify.png" alt="Ejemplo de página de configuración">
-  <img src="assets/images/netlify.png" alt="Ejemplo de página en Netlify básica">
-</p>
-
+Doesn't work for me or I don't know how to do it.
 
 ## Personalized 404 page
 
-Se ha creado una página 404 personalizada y se encuentra en el directorio raíz como `404.html`.
+Personalized the 404 error page at the URL `/404.html`.
 
 ## Kanban Board
 
-Se ha creado un tablero de Kanban en GitHub para hacer seguimiento de las tareas relacionadas con esta práctica.
+Created a Kanban Board for the project using GitHub Projects. See the `Projects` tab on the repository.
 
 ## Jekyll Collection
 
-Se ha configurado una colección en Jekyll para los resúmenes y fráses célebres del personaje Sherlock Holmes.
+Configured a Jekyll Collection for the project in `_assignment` folder. See the `_config.yml` file for configuration.
+
 <p align="center">
-  <img src="assets/images/jk-coll.png" alt="Ejemplo de Jekyll collection en _config.yml">
+  <img src="assets/images/jekyll_collection.png" alt="Using the Jekyll Collection in _config.yml">
 </p>
 
 

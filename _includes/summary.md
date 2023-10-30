@@ -28,19 +28,3 @@ Systems development is the structured process by which business requirements are
 Numerous organizations opt to offshore or outsource their systems development, often with the aim of leveraging cost-effective, top-tier resources available in other nations, like India. Outsourcing entails entrusting development tasks to specialized IT companies, which may also involve offshoring. These approaches bring forth their distinct advantages and obstacles, including issues like communication barriers and the relinquishment of control over essential systems.
 
 By gaining insight into these dimensions of systems development, organizations can more effectively navigate the intricacies and difficulties associated with constructing IT systems.
-
-<ul>
-{% for summary in site.summary %}
-  <li>
-    <a href="{{ summary.url }}">{{ summary.title }}</a>
-  </li>
-{% endfor %}
-</ul>
-
-<ul>
-{% for summary in site.data.summary %}
-  <li>
-    {{ summary.title }} por {{ summary.author }}
-  </li>
-{% endfor %}
-</ul>
