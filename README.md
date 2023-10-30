@@ -10,7 +10,7 @@ This project includes a summary of the topics that we learned at the classes, al
 
 - [Summary of the first chapter](#Summary-of-the-first-chapter)
 - [Deployment in Jekyll and GitHub Pages](#deployment-in-jekyll-and-github-pages)
-- [Deployment in Netlify](#deployment-in-netlify)DePEKJ
+- [Deployment in Netlify](#deployment-in-netlify)
 - [Personalized 404 page](#personalized-404-page)
 - [Kanban Board](#kanban-board)
 - [Jekyll Collection](#jekyll-collection)
