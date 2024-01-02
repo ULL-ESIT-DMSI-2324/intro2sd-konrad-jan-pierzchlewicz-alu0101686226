@@ -5,6 +5,7 @@
 ## Description
 
 This project includes a summary of the topics that we learned at the classes, alongside a deployed website using Jekyll and GitHub Pages.
+By a mistake, the contents of this lab is in the 'main' branch
 
 ## Table of Contents
 
